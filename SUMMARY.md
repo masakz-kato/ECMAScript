@@ -1,5 +1,5 @@
 * [目次](docs/README.md)
-  * [01_変数](docs/01_variable.md)
+  * [01_変数と型](docs/01_variable_and_type.md)
 
 後でまとめる
 http://postd.cc/es8-was-released-and-here-are-its-main-new-features/
